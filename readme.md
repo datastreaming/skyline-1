@@ -1,3 +1,6 @@
+https://earthgecko-skyline.readthedocs.io/en/latest/installation.html
+
+
 ## Skyline
 
 Skyline is a real time anomaly detection, time series analysis and performance
